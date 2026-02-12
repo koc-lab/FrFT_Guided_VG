@@ -1,4 +1,4 @@
-## Learning the best order for FrFT-Guided NVG (edge weights) 
+## Learning the best order for FrFT-based NVG (edge weights) 
 
 import os
 import math
@@ -478,3 +478,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
