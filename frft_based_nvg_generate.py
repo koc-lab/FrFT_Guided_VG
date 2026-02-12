@@ -1,4 +1,4 @@
-# FrFT-Guided NVG generation and saving
+# FrFT-based NVG generation and saving
 
 import os
 import math
@@ -420,3 +420,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
