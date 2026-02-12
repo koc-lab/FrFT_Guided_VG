@@ -1,4 +1,4 @@
-# Classification codes for FrFT-Guided NVGs
+# Classification codes for FrFT-based NVGs
 
 import os, sys, io, argparse
 import numpy as np
@@ -346,3 +346,4 @@ if __name__ == "__main__":
 
         print(f"[{datetime.now().isoformat(timespec='seconds')}] END run")
         print("="*80)
+
