@@ -1,5 +1,5 @@
 # FrFT based VG
-The codes for the paper titled "Fractional Fourier Transform based Visibility Graphs" which is submitted to the Elsevier Signal Processing journal.
+The codes for the paper titled "Fractional Fourier Transform based Visibility Graphs" which is submitted to the Elsevier Digital Signal Processing journal.
 
 For generating and saving the FrFT-based visibility graphs (VGs) with any FrFT order (including 0, 1, and unweighted cases), refer to codes `frft_based_nvg_generate.py`.
 
